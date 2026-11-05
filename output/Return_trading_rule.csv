@@ -1,0 +1,5 @@
+,Avg monthly P&L (log return),Monthly vol,Ann. Sharpe,% months profitable,Max drawdown
+Buy & hold,0.005,0.133,0.121,0.566,-1.37
+AR(1) rule,0.001,0.133,0.028,0.513,-0.78
+OLS selected rule,0.005,0.133,0.124,0.584,-1.062
+LASSO rule,0.005,0.133,0.121,0.566,-1.37

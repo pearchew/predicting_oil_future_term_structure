@@ -1,0 +1,11 @@
+,stat,p-value
+Durbin-Watson,2.151,
+Breusch-Godfrey LM(6),13.323,0.038
+Ljung-Box Q(12),17.178,0.143
+Breusch-Pagan,19.278,0.013
+White,127.55,0.0
+ARCH: Ljung-Box on e^2 (12),38.592,0.0
+Jarque-Bera,75.244,0.0
+"RESET (powers 2,3)",3.461,0.033
+Chow break 2008-07,2.855,0.003
+CUSUM,1.355,0.051

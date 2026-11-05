@@ -1,0 +1,5 @@
+Period,CL1 return vol (ann.),"Term-structure monthly change, std (pp)",Avg term structure (%),% months in contango
+1995-2004,0.322,1.366,-0.848,0.342
+2005-2014,0.32,1.065,0.9,0.775
+2015-2024,0.46,2.45,0.572,0.605
+2015-2024 ex-2020,0.314,0.809,0.236,0.559

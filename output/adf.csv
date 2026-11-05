@@ -1,0 +1,20 @@
+series,ADF stat,p-value
+CL1 price (level),-2.414,0.138
+CL2-CL1 spread in $,-4.457,0.0
+10Y-3M spread (level),-2.023,0.277
+basis,-6.036,0.0
+ret,-10.646,0.0
+d_crack,-7.585,0.0
+inv_g,-3.112,0.026
+rig_g,-7.879,0.0
+prod_g,-17.17,0.0
+net_comm,-3.351,0.013
+bdi_g,-9.114,0.0
+dxy,-18.096,0.0
+spx_ret,-18.433,0.0
+d_vix,-8.929,0.0
+d_term,-10.115,0.0
+og_ret,-19.772,0.0
+gas_g,-6.96,0.0
+ip_g,-13.996,0.0
+d_cpi,-5.055,0.0
