@@ -1,5 +1,0 @@
-,Avg monthly P&L ($/bbl),Monthly vol,Ann. Sharpe,% months profitable,Max drawdown
-Always long spread,-0.015,0.683,-0.074,0.451,-6.79
-AR(1) rule,0.024,0.683,0.122,0.54,-3.91
-OLS selected rule,0.134,0.67,0.694,0.593,-4.02
-LASSO rule,0.01,0.683,0.05,0.558,-3.88

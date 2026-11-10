@@ -1,8 +1,0 @@
-Sample,Train months,OLS predictors,OLS OOS R2,OLS OOS R2 ex-2020,OLS Direction,OLS PT p,OLS Sharpe,AR(1) OOS R2,AR(1) OOS R2 ex-2020
-Train from 1995,239,"basis, d_cpi, rig_g, net_comm, inv_g, ret, gas_g, ip_g",0.088,0.078,0.602,0.013,0.694,0.137,0.038
-Train from 1998,204,"basis, rig_g, d_cpi, net_comm, ret, inv_g, gas_g, ip_g",0.098,0.079,0.619,0.003,0.64,0.146,-0.0
-Train from 2000,180,"basis, d_cpi, rig_g, net_comm, gas_g, ip_g, ret, inv_g",0.103,0.049,0.593,0.017,0.425,0.146,-0.007
-Train from 2003,144,"basis, d_cpi, rig_g, gas_g, ret, ip_g, net_comm",0.099,-0.011,0.558,0.063,0.258,0.139,-0.048
-Train from 2005,120,"basis, d_cpi, rig_g, ret, gas_g, net_comm, ip_g, inv_g, d_vix",0.081,-0.199,0.575,0.027,0.365,0.138,-0.132
-Train from 2007,96,"basis, d_cpi, rig_g, ret, gas_g, ip_g, inv_g, d_vix",0.062,-0.305,0.584,0.013,0.46,0.137,-0.105
-Train from 2009,66,"basis, rig_g, spx_ret, dxy, inv_g",0.124,-0.701,0.575,0.027,0.332,0.129,-0.158
